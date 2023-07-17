@@ -48,7 +48,7 @@ const Footer = () => {
       <div className='author'>
         Have a wonderful focus session, regards:
         <a
-          href={CONSTANTS.AUTHOR_GITHUB_LINK}
+          href={CONSTANTS.AUTHOR_LINKEDIN_LINK}
           target='_blank'
           rel='noopener noreferrer'
           className='author-name'

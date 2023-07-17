@@ -40,7 +40,7 @@ const Header = () => {
   return (
     <nav className='wrap'>
       <Link to='/'>
-        <img src='/assets/icons/loficon.svg' alt='' />
+        <img src='/assets/icons/icon.svg' alt='' />
       </Link>
       <div className='nav-menu'>
       </div>

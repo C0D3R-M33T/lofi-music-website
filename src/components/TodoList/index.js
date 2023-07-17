@@ -93,7 +93,7 @@ const TodoList = () => {
       ) : (
         <ListGroup>
           <ListGroup.Item className='text-center'>
-            Nothing to do yet
+            Isn't there anything to do right now?
           </ListGroup.Item>
         </ListGroup>
       )}

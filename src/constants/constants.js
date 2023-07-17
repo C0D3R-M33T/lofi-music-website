@@ -1,4 +1,4 @@
 export const CONSTANTS  = {
-    'AUTHOR': 'Nguyen Duc Dung',
-    'AUTHOR_GITHUB_LINK': 'https://github.com/dungng1321',
+    'AUTHOR': 'Roshmeet Chakraborty',
+    'AUTHOR_GITHUB_LINK': 'https://www.linkedin.com/in/roshmeet/',
 }

@@ -17,7 +17,7 @@ const Footer = () => {
     <div className='footer'>
       <div className='song-name'>
         {moodMode === 'chill' ? (
-          <span>Song name: {chill[currentSongIndex].name}</span>
+          <span>Now Playing: {chill[currentSongIndex].name}</span>
         ) : moodMode === 'jazzy' ? (
           <span>Song name: {jazzy[currentSongIndex].name}</span>
         ) : (
@@ -46,7 +46,7 @@ const Footer = () => {
         )}
       </div>
       <div className='author'>
-        Made by:
+        Have a wonderful focus session, regards:
         <a
           href={CONSTANTS.AUTHOR_GITHUB_LINK}
           target='_blank'

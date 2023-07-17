@@ -159,6 +159,7 @@ const ModifierBoard = ({
                   <i className='fas fa-volume-up fa-lg'></i>
                 </Stack>
               </div>
+              <h5>Hello! Meet here. Make your own lofi </h5>
               <h5>Background Noise</h5>
               <div className='backgroundNoise'>
                 <div className='noise-option'>

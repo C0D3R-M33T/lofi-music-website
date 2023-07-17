@@ -40,7 +40,7 @@ const Header = () => {
   return (
     <nav className='wrap'>
       <Link to='/'>
-        <img src='/assets/icons/lofi-logo.gif' alt='' />
+        <img src='/assets/icons/lofiicon.png' alt='' />
       </Link>
       <div className='nav-menu'>
       </div>
